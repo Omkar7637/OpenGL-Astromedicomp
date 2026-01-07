@@ -1,0 +1,5 @@
+#include "Icon.h"
+
+MYICON ICON favicon.ico
+
+

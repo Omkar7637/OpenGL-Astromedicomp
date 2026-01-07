@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\03-Both\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-Perspective\\01-BW\\03-Both\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\01-Triangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-Perspective\\01-BW\\01-Triangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\02-Ortho_Triangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02-Ortho_Triangle\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\01-Blue_screen\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01-Blue_screen\\OGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OGL.cpp",
+              "DocumentMoniker": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\03-Both\\OGL.cpp",
+              "RelativeDocumentMoniker": "03-Perspective\\01-BW\\03-Both\\OGL.cpp",
+              "ToolTip": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\03-Both\\OGL.cpp",
+              "RelativeToolTip": "03-Perspective\\01-BW\\03-Both\\OGL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:16:01.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OGL.cpp",
+              "DocumentMoniker": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp",
+              "RelativeDocumentMoniker": "03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp",
+              "ToolTip": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp",
+              "RelativeToolTip": "03-Perspective\\01-BW\\02-Rectangle\\OGL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:15:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OGL.cpp",
+              "DocumentMoniker": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\01-Triangle\\OGL.cpp",
+              "RelativeDocumentMoniker": "03-Perspective\\01-BW\\01-Triangle\\OGL.cpp",
+              "ToolTip": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\03-Perspective\\01-BW\\01-Triangle\\OGL.cpp",
+              "RelativeToolTip": "03-Perspective\\01-BW\\01-Triangle\\OGL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:14:54.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OGL.cpp",
+              "DocumentMoniker": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\02-Ortho_Triangle\\OGL.cpp",
+              "RelativeDocumentMoniker": "02-Ortho_Triangle\\OGL.cpp",
+              "ToolTip": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\02-Ortho_Triangle\\OGL.cpp",
+              "RelativeToolTip": "02-Ortho_Triangle\\OGL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:14:23.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OGL.cpp",
+              "DocumentMoniker": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\01-Blue_screen\\OGL.cpp",
+              "RelativeDocumentMoniker": "01-Blue_screen\\OGL.cpp",
+              "ToolTip": "C:\\Users\\Omkar\\OneDrive\\Desktop\\New folder\\New folder (2)\\RTR2024-150\\02-XWindows\\03-PP\\01-Blue_screen\\OGL.cpp",
+              "RelativeToolTip": "01-Blue_screen\\OGL.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewFsAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:13:59.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

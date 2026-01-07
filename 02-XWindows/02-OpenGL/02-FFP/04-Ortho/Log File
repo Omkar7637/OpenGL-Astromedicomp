@@ -1,0 +1,10 @@
+Program Started Successfully
+glXChooseVisual Succedded. 
+OPENGL INFORMATION
+******************
+OpenGL Vendor		: Intel
+OpenGL Renderer	: Mesa Intel(R) HD Graphics 620 (KBL GT2)
+OpenGL Version		: 4.6 (Compatibility Profile) Mesa 24.2.8-1ubuntu1~24.04.1
+******************
+initialize() Completed Successfully
+Program terminated Successfully !!!

@@ -1,0 +1,70 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Editors =====
+.vscode/
+.idea/
+
+# ===== Android =====
+**/build/
+.gradle/
+*.apk
+*.aab
+*.iml
+local.properties
+
+# ===== C / C++ =====
+*.o
+*.obj
+*.exe
+*.out
+
+# ===== Logs =====
+*.log
+
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#extra files
+*.bat
+*.txt
+*.ico
+*.res
+*.obj
+
+*.mp4
+*.mkv
+*.pdf

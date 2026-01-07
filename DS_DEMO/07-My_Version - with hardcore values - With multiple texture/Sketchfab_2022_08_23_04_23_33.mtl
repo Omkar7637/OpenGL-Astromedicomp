@@ -1,0 +1,46 @@
+# Blender 4.5.1 LTS MTL File: 'Sketchfab_2022_08_23_04_23_33.blend'
+# www.blender.org
+
+newmtl grass
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 40 40 40 C:/pjwon2_2K_Albedo.jpg
+map_Ns -s 40 40 40 C:/pjwon2_2K_Roughness.jpg
+map_Bump -s 40 40 40 -bm 1.000000 C:/pjwon2_2K_Normal.jpg
+
+newmtl grass2
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 40 40 40 C:/vcqhcig_2K_Albedo.jpg
+map_Ns -s 40 40 40 C:/vcqhcig_2K_Roughness.jpg
+map_Bump -s 40 40 40 -bm 1.000000 C:/vcqhcig_2K_Normal.jpg
+
+newmtl rock
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 40 40 40 C:/vi1qbermw_2K_Albedo.jpg
+map_Ns -s 40 40 40 C:/vi1qbermw_2K_Roughness.jpg
+map_Bump -s 40 40 40 -bm 1.000000 C:/vi1qbermw_2K_Normal.jpg
+
+newmtl sand
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 40 40 40 C:/tcgicaak_2K_Albedo.jpg
+map_Ns -s 40 40 40 C:/tcgicaak_2K_Roughness.jpg
+map_Bump -s 40 40 40 -bm 1.000000 C:/tcgicaak_2K_Normal.jpg

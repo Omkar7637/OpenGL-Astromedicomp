@@ -1,0 +1,9 @@
+#include "OGL.h"
+
+MYICON ICON favicon.ico
+
+IDBITMAP_SMILEY BITMAP grass.bmp
+
+IDBITMAP_TERRAIN BITMAP Rabbit.bmp
+
+

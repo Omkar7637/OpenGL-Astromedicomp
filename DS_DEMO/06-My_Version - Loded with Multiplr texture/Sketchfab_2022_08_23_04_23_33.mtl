@@ -1,0 +1,46 @@
+# Blender 4.5.1 LTS MTL File: 'Sketchfab_2022_08_23_04_23_33.blend'
+# www.blender.org
+
+newmtl grass
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd pjwon2_2K_Albedo.bmp
+map_Ns pjwon2_2K_Roughness.bmp
+map_Bump pjwon2_2K_Normal.bmp
+
+newmtl grass2
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd vcqhcig_2K_Albedo.bmp
+map_Ns vcqhcig_2K_Roughness.bmp
+map_Bump vcqhcig_2K_Normal.bmp
+
+newmtl rock
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd vi1qbermw_2K_Albedo.bmp
+map_Ns vi1qbermw_2K_Roughness.bmp
+map_Bump vi1qbermw_2K_Normal.bmp
+
+newmtl sand
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tcgicaak_2K_Albedo.bmp
+map_Ns tcgicaak_2K_Roughness.bmp
+map_Bump tcgicaak_2K_Normal.bmp

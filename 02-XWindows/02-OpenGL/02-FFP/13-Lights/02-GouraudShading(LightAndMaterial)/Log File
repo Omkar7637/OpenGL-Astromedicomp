@@ -1,0 +1,10 @@
+Program Started Successfully
+glXChooseVisual Succedded. 
+OPENGL INFORMATION
+******************
+OpenGL Vendor		: NVIDIA Corporation
+OpenGL Renderer	: NVIDIA GeForce 940MX/PCIe/SSE2
+OpenGL Version		: 4.6.0 NVIDIA 570.133.07
+******************
+initialize() Completed Successfully
+Program terminated Successfully !!!

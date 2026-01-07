@@ -1,0 +1,7 @@
+#include "OGL.h"
+
+MYICON ICON favicon.ico
+
+IDBITMAP_STONE BITMAP Stone.bmp
+
+IDBITMAP_KUNDALI BITMAP Vijay_Kundali.bmp
